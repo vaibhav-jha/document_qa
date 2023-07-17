@@ -9,7 +9,7 @@ import os
 try:
     from secret_keys import OPENAI_API_KEY
 except ImportError:
-    OPENAI_API_KEY = "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"
+    OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
 
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
