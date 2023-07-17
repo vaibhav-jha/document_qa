@@ -3,6 +3,17 @@ Question Answering with long documents:
 
 This project is a POC for QAs over a large document:
 
+
+Prior:
+
+      Create a file named `secrets.py` inside the myGPT folder to store the OpenAI API key like this -> `OPENAI_API_KEY = "YOUR-KEY"` 
+
+      OR
+            
+      Use an environment variable with the OpenAI API key
+
+
+
 Steps:
 1. Install all dependencies
 2. Run `streamlit run ui.py`
