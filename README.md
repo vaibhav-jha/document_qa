@@ -1,8 +1,9 @@
 # document_qa
-Question Answering with long documents:
+This project derives implementation from the following open source project: https://github.com/whitead/paper-qa 
 
-This project is a POC for QAs over a large document:
+### Question Answering with long documents:
 
+This project is a POC for QAs over a large document.
 
 Prior:
 
